@@ -47,7 +47,7 @@ shinyUI(fluidPage(
                         h2("Source Code"),
                         tags$a(href="https://github.com/MarkSmithAU/DevelopingDataProductsShinyProject", "Click here to be taken to GitHub to view the source code"),
                         h2("Pitch Presentation"),
-                        tags$a(href="https://github.com/MarkSmithAU/DevelopingDataProductsShinyPitch", "Click here to be taken to GitHub to view the pitch")
+                        tags$a(href="https://marksmithau.github.io/DevelopingDataProductsShinyPitch/#1", "Click here to be taken to GitHub to view the pitch")
                 ),
                 mainPanel(
                         p("Optimised for a 1920x1080 screen with the window maximised.  Please change an option and click Submit if the plot does not fully display initially."),
